@@ -27,16 +27,16 @@ create:
         title: Che cos'è Babbo Natale Segreto?
         intro: >
             <p>È <strong>un organizzatore di scambio di regali</strong> online <strong>gratuito</strong>! Organizza una festa di Babbo Natale Segreto con i tuoi amici, la tua famiglia oppure i tuoi coleghi. Dopo aver ricevuto un e-mail del Secret Santa Organizer, puoi aggiungere la tua propria <strong>wishlist</strong>, che sarà girato al tuo amico segreto.</p>
-            <p>Ogni anno si scambia regali in tutto il mondo durante il periodo di Natale.<br/> Para deixar esse momento ainda mais memorável, você pode fazer com que <strong>pessoas escolhidas arbitrariamente</strong> comprem presentes umas para as outras.</p>
+            <p>Ogni anno si scambia regali in tutto il mondo durante il periodo di Natale.<br/> Nel tentativo di rendere questo momento ancora più indimenticabile, si può fare che <strong>personi arbitrariamente scelte</strong> si compranno regali.</p>
 
-    add_participants: Adicione os participantes
-    list_adminstrator: Esta pessoa também é um operador da lista.
+    add_participants: Aggiungi i partecipanti
+    list_adminstrator: Questa persone é anche un operatore dell'elenco.
     add_personal_message:
-        title: Adicione uma mensagem pessoal
-        description: Adicione uma mensagem pessoal para os participantes.
+        title: Aggiungi un messaggio personale
+        description: Aggiungi un messaggio personale per i partecipanti.
 exclude:
-   title: Excluir
-   description: Com essa lista, você tem a opção de prevenir algumas combinações indesejadas. Por exemplo, para evitar que os membros de uma mesma família troque presentes apenas entre si.
+   title: Cancella
+   description: Con questa lista puoi prevenire qualche combinazioni indesiderati. Per esempio, per evitare che i membri della stessa famiglia scambiano i regali solamente fra loro.
 created:
     title: Só mais 1 etapa! - Validar a sua participação
     body: >
