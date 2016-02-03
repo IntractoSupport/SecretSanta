@@ -24,21 +24,21 @@ pool:
 
 create:
     what_is:
-        title: Che cos'è Babbo Natale Segreto?
+        title: Che cos'è questo Secret Santa Organizer?
         intro: >
             <p>È <strong>un organizzatore di scambio di regali</strong> online <strong>gratuito</strong>! Organizza una festa di Babbo Natale Segreto con i tuoi amici, la tua famiglia oppure i tuoi coleghi. Dopo aver ricevuto un e-mail del Secret Santa Organizer, puoi aggiungere la tua propria <strong>wishlist</strong>, che sarà girato al tuo amico segreto.</p>
-            <p>Ogni anno si scambia regali in tutto il mondo durante il periodo di Natale.<br/> Para deixar esse momento ainda mais memorável, você pode fazer com que <strong>pessoas escolhidas arbitrariamente</strong> comprem presentes umas para as outras.</p>
+            <p>Ogni anno si scambia regali in tutto il mondo durante il periodo di Natale.<br/> Per rendere questo momento ancora più indimenticabile, si può fare che <strong>personi arbitrariamente scelte</strong> comprano regali uno per l'altro.</p>
 
-    add_participants: Adicione os participantes
-    list_adminstrator: Esta pessoa também é um operador da lista.
+    add_participants: Aggiungi i partecipanti
+    list_adminstrator: Questa persone è pure un operatore dell'elenco.
     add_personal_message:
-        title: Adicione uma mensagem pessoal
-        description: Adicione uma mensagem pessoal para os participantes.
+        title: Aggiungi un messaggio personale
+        description: Aggiungi un messagio personale per i partecipanti.
 exclude:
-   title: Excluir
-   description: Com essa lista, você tem a opção de prevenir algumas combinações indesejadas. Por exemplo, para evitar que os membros de uma mesma família troque presentes apenas entre si.
+   title: Rimuovere 
+   description: Con questo elenco, ce l'hai la possibilità di prevenire alcune combinazioni indesiderati. Per esempio, per evitare che membri della stessa famiglia scambiano regali fra loro.
 created:
-    title: Só mais 1 etapa! - Validar a sua participação
+    title: Manca soltanto 1 step! -  Convalidare la tua partecipazione
     body: >
         <p>
         Para evitar que hóspedes indesejáveis estraguem a sua festa de Amigo Secreto, o operador da lista <b>%ownername%</b> precisa validar cada participação. Nós já mandamos um e-mail para <b>%owneremail%</b> dando mais instruções. 
